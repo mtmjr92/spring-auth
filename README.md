@@ -6,3 +6,5 @@
 - https://www.youtube.com/watch?v=LStfcTtKKWw&ab_channel=CarlosFerreira-EspecializaTi
 - https://www.youtube.com/watch?v=Sy0krkW5dWU&ab_channel=M%C3%A1rcio
 - X-XSRF-TOKEN , utiliar este token em POST
+
+## Spring Boot 2 Essentials 41 - Spring Security pt 02 - Segurança a nível de métodos com PreAuthorize
